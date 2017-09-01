@@ -1,0 +1,38 @@
+body {
+  background-image: url("https://lawtech.asia/wp-content/uploads/2016/11/Screen-Shot-2016-11-28-at-1.09.20-AM.png");
+    background-size: cover;
+}
+
+h3 {
+  background-color: #FFF;
+  font-family: 'Raleway', sans-serif;
+}
+
+label {
+ background-color: rgba(0,0,0,0.8);
+}
+
+h1 {
+  color: #ff7676
+}
+
+h5 {
+  color: #fbc3c3
+  
+}
+
+
+li {
+  color: #de5959
+}
+
+.container {
+   background-color: rgba(0,0,0,0.8);
+  margin-top: 60px
+  
+}
+
+/*.container { margin: 12; padding: 12; border: none; }*/
+
+
+
